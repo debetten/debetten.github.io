@@ -26,7 +26,7 @@ Since moving to the Bay Area, I've started trail running, I've been finding rout
 
 **Birding**
 
-I'm a beginner birder, especially interested birds on either end of the overall size distribution. I have a feeder set up outside my window for hummingbirds, and even once managed to feed them from my hand. On the other end of the size distribution, I am a huge fan of [Cal Falcons](https://calfalcons.berkeley.edu/), I have been to the raptor migration at [Hawk Hill](https://www.parksconservancy.org/parks/hawk-hill), and I try to spot California Condors whenever possible. I got hooked by the [Merlin Bird ID app](https://merlin.allaboutbirds.org/), which is super helpful for beginners! 
+I'm a beginner birder, especially interested birds on either end of the size distribution. I have a feeder set up outside my window for hummingbirds, and even once managed to feed them from my hand. On the other end of the size distribution, I am a huge fan of [Cal Falcons](https://calfalcons.berkeley.edu/), I have been to the raptor migration at [Hawk Hill](https://www.parksconservancy.org/parks/hawk-hill), and I try to spot California Condors whenever possible. I got hooked by the [Merlin Bird ID app](https://merlin.allaboutbirds.org/), which is super helpful for beginners! 
 
 
 <br/>
@@ -34,4 +34,4 @@ I'm a beginner birder, especially interested birds on either end of the overall 
 
 **NY Times Crossword Puzzles**
 
-I try my best on [NY Times Crossword puzzles](https://www.nytimes.com/crosswords), though I'm usually only able to solve Mondays-Wednesdays, but I occasionally get lucky with a Thursday or Sunday. I like to lurk the commentary in the [Word Play](https://www.nytimes.com/spotlight/daily-crossword-column) and on [Rex Parker](https://rexwordpuzzle.blogspot.com/)
+I try my best on [NY Times Crossword puzzles](https://www.nytimes.com/crosswords). Though I'm usually only able to solve Mondays-Wednesdays, I occasionally get lucky with a Thursday or Sunday. I like to lurk the commentary in the [Word Play](https://www.nytimes.com/spotlight/daily-crossword-column) column and on [Rex Parker](https://rexwordpuzzle.blogspot.com/)

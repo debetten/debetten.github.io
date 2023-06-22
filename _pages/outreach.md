@@ -8,7 +8,12 @@ author_profile: true
 {% include base_path %}
 
 
+I'm passionate about creating inclusive environments for everyone, especially those who are underrepresented in science, through mentorship and outreach. 
+
+
+
 ## Outreach
+
 
 
 * *Mentor*, Neuromatch Academy, 2023
@@ -44,18 +49,3 @@ I coordinated graduate student interview and recruitment weekend for prospective
 * *Panelist*, She Roars: Celebrating Women at Princeton conference, 2011  
 The goal of this inaugural conference was to celebrate, engage and connect Princeton's alumnae. I was invited to be a panelist as a female graduate student. [She Roars Website](https://sheroars.princeton.edu/home/)
 
-
-<br/>
-
-
-## Academic Service
-
-* *Chair*, Recall and Recognition Memory session, Psychonomics Society annual meeting, 2020
-* *Moderator*, Virtual Working Memory Symposium, 2020
-* *Co-chair*, Working memory neural mechanisms nanosymposium, Society for Neuroscience, 2019
-* *Panelist*, Training grants & fellowships webinar, Society for Neuroscience, 2018
-* *Panelist*, She Roars: Celebrating Women at Princeton conference, 2018
-* *Program Committee*, Real-time Functional Imaging and Neurofeedback Conference, 2017
-* *Co-organizer*, Manhattan Area Memory Meeting, 2015
-* *Faculty Curriculum Committee*, Princeton Neuroscience Institute, 2011-2012
-* *Graduate Student Recruitment Coordinator*, Princeton Neuroscience Institute, 2011
