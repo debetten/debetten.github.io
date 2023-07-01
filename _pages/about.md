@@ -13,7 +13,7 @@ redirect_from:
 I am currently a Research Scientist at Ruby Neurotech, building brain-computer interfaces for mental health, funded by [Wellcome Leap](https://wellcomeleap.org/). I'm also a consultant for a project at Stanford University, funded by [Wu Tsai Human Performance Alliance](https://humanperformancealliance.org/). 
 
 
-I am on leave from my [K99 Brain Initiative](https://braininitiative.nih.gov/megan-debettencourt-phd) post-doc fellowship at the [Institute for Mind and Biology](http://imb.uchicago.edu/) and the [Department of Psychology](http://psychology.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), working with [Ed Awh and Ed Vogel](http://awhvogellab.com/).
+Previously, I was a [K99 Brain Initiative](https://braininitiative.nih.gov/megan-debettencourt-phd) post-doc at the [Institute for Mind and Biology](http://imb.uchicago.edu/) and the [Department of Psychology](http://psychology.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), working with [Ed Awh and Ed Vogel](http://awhvogellab.com/).
 
 
 I completed my PhD in the [Princeton Neuroscience Institute](http://www.princeton.edu/neuroscience/) at [Princeton University](http://www.princeton.edu/), working with [Ken Norman](http://compmem.princeton.edu/) and [Nick Turk-Browne](http://ntblab.yale.edu/).
