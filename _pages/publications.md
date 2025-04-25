@@ -14,11 +14,17 @@ author_profile: true
 <font size="2"><sup>*</sup> indicates equal first authorship<br></font>  
 <font size="2">$^\S$ indicates equal senior authorship</font>  
 
-Turoman N, Fiave PA, Zahnd C, **deBettencourt MT**, Vergauwe E. Decoding the content of working memory in school-aged children. *BioRxiv*  
-[Pre-print](https://www.biorxiv.org/content/10.1101/2023.02.10.527990v1)
+Corriveau A, James AR Jr., **deBettencourt MT**, Rosenberg MD (in press) Sustained attentional state is a floodlight not a spotlight. Journal of Experimental Psychology: General. [Pre-print](https://osf.io/preprints/psyarxiv/k9cnm_v1)
 
-Trach JE, **deBettencourt MT**, Radulescu A, McDougle SD (2022) Reward prediction errors modulate attentional vigilance. *PsyArXiv*  
-[Pre-print](https://psyarxiv.com/c8zq7")
+Trach JE, **deBettencourt MT**, Radulescu A, McDougle SD (2025). Reward prediction errors modulate attentional vigilance. Journal of Experimental Psychology: General. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39836118/)
+
+Roberts BRT\*, Pruin J\*, Bainbridge WA, Rosenberg MD, **deBettencourt MT** (2024) Memory augmentation with an adaptive cognitive interfaces. Psychonomic Bulletin Review. [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39379775/)
+
+Corriveau A\*, Chao A\*, **deBettencourt MT**$^\S$, Rosenberg MD$^\S$ (2024) Recognition memory fluctuates with sustained attention regardless of task‐relevance. Psychonomic Bulletin & Review [Pubmed]()
+
+Tompary A, **deBettencourt MT**, Rouhani N (2024) Remembering Sarah DuBrow across All Contexts. Journal of Cognitive Neuroscience [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38739569/)
+
+Turoman N, Fiave PA, Zahnd C, **deBettencourt MT**, Vergauwe E. (2024) Decoding the content of working memory in school‐aged children. Cortex 171: 136‐152 [Link](https://www.sciencedirect.com/science/article/pii/S0010945223002769)
 
 Keene PA\*, **deBettencourt MT**\*, Awh E, Vogel EK (2022) Pupillometry signatures of sustained attention and working memory. *Attention, Perception & Psychophysics* 84(8): 2472-2482  
 [PDF]({{ site.baseurl }}/files/KeenedeBettencourt_APP_2022.pdf) | [Link](https://link.springer.com/article/10.3758/s13414-022-02557-5) | [Github](https://github.com/debetten/KeenedeBettencourt_PupilTrigger)
