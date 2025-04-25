@@ -10,18 +10,20 @@ redirect_from:
 
 **About**
 
-I am currently a Research Scientist at [Ruby Neurotech](https://www.ruby-neurotech.com/), building brain-computer interfaces for mental health, funded by [Wellcome Leap](https://wellcomeleap.org/). I'm also a consultant for a project at Stanford University, funded by [Wu Tsai Human Performance Alliance](https://humanperformancealliance.org/). 
+I am currently a Senior Research Scientist at [Ruby Neurotech](https://www.ruby-neurotech.com/), an early preclinical stage start-up with non-dilutive funding from [Wellcome Leap](https://wellcomeleap.org/). I am leading a project for a digital mental health study, integrating AI and neurotechnology to deliver scalable, personalized treatment solutions. <br><br>
 
 
-Previously, I was a [K99 Brain Initiative](https://braininitiative.nih.gov/megan-debettencourt-phd) post-doc at the [Institute for Mind and Biology](http://imb.uchicago.edu/) and the [Department of Psychology](http://psychology.uchicago.edu/) at the [University of Chicago](http://www.uchicago.edu/), working with [Ed Awh and Ed Vogel](http://awhvogellab.com/).
 
+<ul style="list-style-type: none; padding: 0; margin: 0; display: inline;">
+  <li>My previous work, research and educational experience include:</li>
+  <li>- Stanford University (consultant for Wu Tsai Human Performance Alliance)</li>
+  <li>- University of Chicago (K99 Brain Initiative & F32 NRSA post-doctoral fellow)</li>
+  <li>- Princeton University (NSF GRFP Neuroscience PhD & MA)</li>
+  <li>- Columbia University (BS Applied Mathematics, with research in Biomedical and Electrical Engineering Departments)</li>
+</ul>
 
-I completed my PhD in the [Princeton Neuroscience Institute](http://www.princeton.edu/neuroscience/) at [Princeton University](http://www.princeton.edu/), working with [Ken Norman](http://compmem.princeton.edu/) and [Nick Turk-Browne](http://ntblab.yale.edu/).
-
-
-**Research**
-
-The goal of my research is to develop technologies that can augment and improve human behavior, using brain-computer interfaces, machine learning, and data analysis in conjunction with multimodal neural and biological recordings. For example, I built real-time platforms to monitor attention lapses and deliver closed-loop neurofeedback and state-dependent triggering. I have expertise in neuroscience, engineering, and human psychology, and experience with academic-industry partnerships. 
+<br>
+I also have extensive experience with academic-industry collaborations, including launching a collaboration with Intel Labs Brain-Inspired Computing as a PhD Student. My research expertise includes brain‐computer interfaces, neurofeedback, state‐dependent triggering, and neuroadaptive designs. 
 
 
 <!-- Default Statcounter code for Github Personal Website
