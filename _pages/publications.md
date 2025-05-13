@@ -12,7 +12,9 @@ author_profile: true
 {% include base_path %}
 
 <font size="2"><sup>*</sup> indicates equal first authorship<br></font>  
-<font size="2">$^\S$ indicates equal senior authorship</font>  
+<font size="2">$^\S$ indicates equal senior authorship</font>
+
+Corriveau A, Rosenberg MD, **deBettencourt MT** (submitted) Cognitive neuroscience of attention and memory dynamics. 
 
 Corriveau A, James AR Jr., **deBettencourt MT**, Rosenberg MD (in press) Sustained attentional state is a floodlight not a spotlight. Journal of Experimental Psychology: General. [Pre-print](https://osf.io/preprints/psyarxiv/k9cnm_v1)
 
