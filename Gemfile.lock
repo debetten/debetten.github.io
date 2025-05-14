@@ -259,6 +259,7 @@ DEPENDENCIES
   github-pages
   hawkins
   jekyll-feed
+  jekyll-remote-theme (~> 0.4.3)
   jekyll-sitemap
   webrick (~> 1.8)
 
