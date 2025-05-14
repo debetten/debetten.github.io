@@ -1,8 +1,18 @@
 /* assets/css/custom.scss */
-*,
-*::before,
-*::after {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+/* Restore Font Awesome for icon classes */
+/* Restore Font Awesome fonts */
+.fa,
+.fab,
+.far,
+.fas,
+[class^="fa-"],
+[class*=" fa-"] {
+  font-family: "Font Awesome 5 Free" !important;
+  font-weight: 900;
+  /* use 400 for regular, 900 for solid */ }
+
+.fab {
+  font-family: "Font Awesome 5 Brands" !important; }
 
 .masthead__menu a:hover {
   color: oklch(52% 0.105 223.128);
