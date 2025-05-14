@@ -1,0 +1,28 @@
+/* assets/css/custom.scss */
+*,
+*::before,
+*::after {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+
+.masthead__menu a:hover {
+  color: oklch(52% 0.105 223.128);
+  font-size: 1.2rem;
+  /* Change to whatever size you prefer, e.g., 14px, 1em, etc. */ }
+
+/* Adjust top nav font size */
+.masthead__menu a {
+  font-size: 1.2rem;
+  /* Change to whatever size you prefer, e.g., 14px, 1em, etc. */
+  font-weight: 500; }
+
+/* Change global link color */
+a {
+  color: oklch(52% 0.105 223.128); }
+
+.masthead__menu a::before {
+  background-color: oklch(52% 0.105 223.128); }
+
+.masthead__menu a:hover::before {
+  background-color: oklch(52% 0.105 223.128); }
+
+/*# sourceMappingURL=custom.css.map */
