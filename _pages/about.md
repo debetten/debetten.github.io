@@ -18,6 +18,11 @@ I have [authored 20+ articles in peer-reveiwed journals](/publications), includi
 My work spans the intersection of neurotechnology, AI, and cognitive science. I am currently a Senior Research Scientist at Ruby Neurotech. I earned my PhD in Neuroscience from Princeton University (supported by an NSF GRFP) and then was a post-doctoral fellow at UChicago (supported by NIH K99 and F32 awards). Before graduate school, I studied Applied Mathematics at Columbia University.
 [Click here to learn more about my research](/research)
 
+## Recent News
+
+- **May 2025** — Attended the [AI for Science symposium](https://mlfoundry.com/ai-for-science-symposium), hosted by Foundry, Invisible Technologies, Open Athena, and the Enigma Project
+- **May 2025** — Submitted an article titled "Cognitive neuroscience of attention and memory dynamics". The first author is [Anna Corriveau](https://annacorriveau.github.io/), PhD student at UChicago. Look for the preprint soon! 
+
 <!-- Default Statcounter code for Github Personal Website
 http://debetten.github.io -->
 <script type="text/javascript">
