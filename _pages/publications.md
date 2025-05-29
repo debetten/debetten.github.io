@@ -14,26 +14,26 @@ author_profile: true
 <font size="2"><sup>*</sup> indicates equal first authorship<br></font>  
 <font size="2">$^\S$ indicates equal senior authorship</font>
 
-Corriveau A, Rosenberg MD, **deBettencourt MT** (submitted) Cognitive neuroscience of attention and memory dynamics.
+Corriveau A, Rosenberg MD, **deBettencourt MT** (submitted) Cognitive neuroscience of attention and memory dynamics.  
 Pre-print available upon request
 
-Corriveau A, James AR Jr., **deBettencourt MT**, Rosenberg MD (in press) Sustained attentional state is a floodlight not a spotlight. Journal of Experimental Psychology: General.
+Corriveau A, James AR Jr., **deBettencourt MT**, Rosenberg MD (in press) Sustained attentional state is a floodlight not a spotlight. Journal of Experimental Psychology: General.  
 [Pre-print](https://osf.io/preprints/psyarxiv/k9cnm_v1)
 
-Trach JE, **deBettencourt MT**, Radulescu A, McDougle SD (2025). Reward prediction errors modulate attentional vigilance. Journal of Experimental Psychology: General.
+Trach JE, **deBettencourt MT**, Radulescu A, McDougle SD (2025). Reward prediction errors modulate attentional vigilance. Journal of Experimental Psychology: General.  
 [PDF]({{ site.baseurl }}/files/Trach_JEPG_2025.pdf) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39836118/)
 
-Roberts BRT\*, Pruin J\*, Bainbridge WA, Rosenberg MD, **deBettencourt MT** (2024) Memory augmentation with an adaptive cognitive interfaces. Psychonomic Bulletin Review. 
-[Pubmed](https://pubmed.ncbi.nlm.nih.gov/39379775/)
+Roberts BRT\*, Pruin J\*, Bainbridge WA, Rosenberg MD, **deBettencourt MT** (2024) Memory augmentation with an adaptive cognitive interfaces. Psychonomic Bulletin Review.  
+[PDF]({{ site.baseurl }}/files/Roberts-Pruin_PBR_2024.pdf) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39379775/)
 
-Corriveau A\*, Chao A\*, **deBettencourt MT**$^\S$, Rosenberg MD$^\S$ (2024) Recognition memory fluctuates with sustained attention regardless of task‐relevance. Psychonomic Bulletin & Review
+Corriveau A\*, Chao A\*, **deBettencourt MT**$^\S$, Rosenberg MD$^\S$ (2024) Recognition memory fluctuates with sustained attention regardless of task‐relevance. Psychonomic Bulletin & Review  
 [PDF]({{ site.baseurl }}/files/Corriveau-Chao_PBR_2024.pdf) 
 
-Tompary A, **deBettencourt MT**, Rouhani N (2024) Remembering Sarah DuBrow across All Contexts. Journal of Cognitive Neuroscience 
+Tompary A, **deBettencourt MT**, Rouhani N (2024) Remembering Sarah DuBrow across All Contexts. Journal of Cognitive Neuroscience  
 [PDF]({{ site.baseurl }}/files/Tompary_JoCN_2024.pdf) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/38739569/)
 
-Turoman N, Fiave PA, Zahnd C, **deBettencourt MT**, Vergauwe E. (2024) Decoding the content of working memory in school‐aged children. Cortex 171: 136‐152 
-[PDF]({{ site.baseurl }}/files/Turoman_Cortex_2023.pdf)[Link](https://www.sciencedirect.com/science/article/pii/S0010945223002769)
+Turoman N, Fiave PA, Zahnd C, **deBettencourt MT**, Vergauwe E. (2024) Decoding the content of working memory in school‐aged children. Cortex 171: 136‐152  
+[PDF]({{ site.baseurl }}/files/Turoman_Cortex_2023.pdf) | [Link](https://www.sciencedirect.com/science/article/pii/S0010945223002769)
 
 Keene PA\*, **deBettencourt MT**\*, Awh E, Vogel EK (2022) Pupillometry signatures of sustained attention and working memory. *Attention, Perception & Psychophysics* 84(8): 2472-2482  
 [PDF]({{ site.baseurl }}/files/KeenedeBettencourt_APP_2022.pdf) | [Link](https://link.springer.com/article/10.3758/s13414-022-02557-5) | [Github](https://github.com/debetten/KeenedeBettencourt_PupilTrigger)
