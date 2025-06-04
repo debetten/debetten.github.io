@@ -15,10 +15,10 @@ author_profile: true
 <font size="2">$^\S$ indicates equal senior authorship</font>
 
 Corriveau A, Rosenberg MD, **deBettencourt MT** (submitted) Cognitive neuroscience of attention and memory dynamics.  
-Pre-print available upon request
+[Pre-print](https://osf.io/preprints/psyarxiv/n7tma_v1) | [PDF]({{ site.baseurl }}/files/Corriveau_PsyArXiv_2025.pdf)
 
 Corriveau A, James AR Jr., **deBettencourt MT**, Rosenberg MD (in press) Sustained attentional state is a floodlight not a spotlight. Journal of Experimental Psychology: General.  
-[Pre-print](https://osf.io/preprints/psyarxiv/k9cnm_v1)
+[Pre-print](https://osf.io/preprints/psyarxiv/k9cnm_v1) | [PDF]({{ site.baseurl }}/files/Corriveau_PsyArXiv_2024.pdf)
 
 Trach JE, **deBettencourt MT**, Radulescu A, McDougle SD (2025). Reward prediction errors modulate attentional vigilance. Journal of Experimental Psychology: General.  
 [PDF]({{ site.baseurl }}/files/Trach_JEPG_2025.pdf) | [Pubmed](https://pubmed.ncbi.nlm.nih.gov/39836118/)

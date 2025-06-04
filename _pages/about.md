@@ -21,7 +21,7 @@ My work spans the intersection of neurotechnology, AI, and cognitive science. I 
 ## Recent News
 
 - **May 2025** — Attended the [AI for Science symposium](https://mlfoundry.com/ai-for-science-symposium), hosted by Foundry, Invisible Technologies, Open Athena, and the Enigma Project
-- **May 2025** — Submitted an article titled "Cognitive neuroscience of attention and memory dynamics". The first author is [Anna Corriveau](https://annacorriveau.github.io/), PhD student at UChicago. Look for the preprint soon! 
+- **May 2025** — Submitted an article titled "Cognitive neuroscience of attention and memory dynamics". The first author is [Anna Corriveau](https://annacorriveau.github.io/), PhD student at UChicago. [Check out the preprint here!]({{ site.baseurl }}/files/Corriveau_PsyArXiv_2025.pdf)
 
 <!-- Default Statcounter code for Github Personal Website
 http://debetten.github.io -->
