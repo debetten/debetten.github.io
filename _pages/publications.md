@@ -14,6 +14,9 @@ author_profile: true
 <font size="2"><sup>*</sup> indicates equal first authorship<br></font>  
 <font size="2">$^\S$ indicates equal senior authorship</font>
 
+**deBettencourt MT**, Sakthivel S, Holmes EA, Chevillet M(submitted) AI-guided digital intervention with physiological monitoring reduces intrusive memories after experimental trauma.  
+[Pre-print](https://arxiv.org/abs/2507.01081) 
+
 Corriveau A, Rosenberg MD, **deBettencourt MT** (submitted) Cognitive neuroscience of attention and memory dynamics.  
 [Pre-print](https://osf.io/preprints/psyarxiv/n7tma_v1) | [PDF]({{ site.baseurl }}/files/Corriveau_PsyArXiv_2025.pdf)
 
