@@ -19,14 +19,14 @@ author_profile: true
 
 ## About
 
-de-Bot-tencourt is an AI-powered chatbot trained on my research publications and personal website. You can ask it questions about my work, including attention and memory dynamics, AI-driven mental health interventions, real-time neurofeedback and neuroadaptive systems. 
+de-Bot-tencourt is an AI-powered chatbot that retrieves information from my research publications and personal website. You can ask it questions about my work, including attention and memory dynamics, AI-driven mental health interventions, real-time neurofeedback and neuroadaptive systems. 
 
 Note: that I am logging these interactions to assess and improve performance! 
 Therefore, please avoid sharing personal or sensitive information. 
 
 ## How it works
 
-This chatbot uses a RAG (Retrieval-Augmented Generation) pipeline, powered by Mistral's LLM, and is deployed on Hugging Face Spaces.
+This chatbot uses LangChain to implement a Retrieval-Augmented Generation (RAG) pipeline, powered by Mistral's LLM, and is deployed on Hugging Face Spaces.
 
 I drew inspiration from a few different guides and resources:
 - [LangChain's RAG Tutorials](https://python.langchain.com/docs/tutorials/rag/)  
