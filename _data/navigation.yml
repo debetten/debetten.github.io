@@ -12,14 +12,18 @@ main:
   # - title: "CV"
   #   url: /cv/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Chat"
+    url: /chat/
+
+  # - title: "Talks"
+  #   url: /talks/    
 
   # - title: "Outreach"
   #   url: /outreach/
   
-  - title: "Misc"
-    url: /misc/
+  # - title: "Misc"
+  #   url: /misc/
+  
   #- title: "Presentations"
   #  url: /talks/   
 

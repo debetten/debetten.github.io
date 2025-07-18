@@ -21,6 +21,7 @@ My work spans the intersection of engineering, AI, neurotechnology and cognitive
 ## Recent News
 
 - **July 2025** — Posted a preprint on arXiv from my work at Ruby NeuroTech: "AI-guided digital intervention with physiological monitoring reduces intrusive memories after experimental trauma" [Check out the preprint here!](https://arxiv.org/abs/2507.01081)
+- **July 2025** - Launched de-Bot-tencourt, a RAGbot trained to answer questions about my research and publications. Try it out on the [Chat](/chat) page!
 - **May 2025** — Attended the [AI for Science symposium](https://mlfoundry.com/ai-for-science-symposium), hosted by Foundry, Invisible Technologies, Open Athena, and the Enigma Project
 - **May 2025** — Posted a preprint on PsyArXiv: "Cognitive neuroscience of attention and memory dynamics". The first author is [Anna Corriveau](https://annacorriveau.github.io/), PhD student at UChicago. [Check out the preprint here!](https://osf.io/preprints/psyarxiv/n7tma_v1)
 
