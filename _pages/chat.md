@@ -21,8 +21,7 @@ author_profile: true
 
 de-Bot-tencourt is an AI-powered chatbot that retrieves information from my research publications and personal website. You can ask it questions about my work, including attention and memory dynamics, AI-driven mental health interventions, real-time neurofeedback and neuroadaptive systems. 
 
-Note: that I am logging these interactions to assess and improve performance! 
-Therefore, please avoid sharing personal or sensitive information. 
+Note: This chatbot is still a work in progress, and I am actively refining its prompt and behavior. To help assess and improve its performance, I am logging interactions for review and analysis. Therefore, please avoid sharing personal or sensitive information!
 
 ## How it works
 
