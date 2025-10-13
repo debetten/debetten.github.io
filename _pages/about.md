@@ -15,11 +15,13 @@ I am a scientist and researcher with over a decade of experience applying AI and
 
 I have [authored 20+ articles in peer-reveiwed journals](/publications), including *Nature Neuroscience* and *Nature Human Behaviour*. My work has been featured in [The NY Times](https://www.nytimes.com/2015/02/10/science/training-the-mind-not-to-wander.html) and [The Atlantic](https://www.theatlantic.com/technology/archive/2015/02/the-attention-machine/385284/). <br>
 
-My work spans the intersection of engineering, AI, neurotechnology and cognitive science. I am currently a Senior Research Scientist at Ruby Neurotech. I earned my PhD in Neuroscience from Princeton University (supported by an NSF GRFP and funding from Intel Labs) and then was a post-doctoral fellow at UChicago (supported by NIH K99 and F32 postdoctoral awards). Before graduate school, I studied Applied Mathematics at Columbia University.
+My work spans the intersection of quantitative research, AI/ML, engineering, neurotechnology and cognitive science. I am currently a Senior Quantitative UX Researcher at Google. I earned my PhD in Neuroscience from Princeton University (supported by an NSF GRFP and funding from Intel Labs) and then was a post-doctoral fellow at UChicago (supported by NIH K99 and F32 postdoctoral awards). Before graduate school, I studied Applied Mathematics at Columbia University.
 [Click here to learn more about my research](/research)
 
 ## Recent News
 
+- **October 2025** — Joining Google as a Senior Quantitative UX Researcher!
+- **September 2025** - Served as a reviewer for the NeurIPS AI for Science workshop
 - **July 2025** — Posted a preprint on arXiv from my work at Ruby NeuroTech: "AI-guided digital intervention with physiological monitoring reduces intrusive memories after experimental trauma" [Check out the preprint here!](https://arxiv.org/abs/2507.01081)
 - **July 2025** - Launched de-Bot-tencourt, a RAGbot trained to answer questions about my research and publications. Try it out on the [Chat](/chat) page!
 - **May 2025** — Attended the [AI for Science symposium](https://mlfoundry.com/ai-for-science-symposium), hosted by Foundry, Invisible Technologies, Open Athena, and the Enigma Project
